@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi all! 👋
+
+Welcome to my github profile! I'm a software developer with a knack for learning anything and everything 💻
+
+🔭 I'm currently in the works of a few personal projects that have yet to be publicized but be on the lookout for when they do go public!
+
+Feel free to reach out to me for anything at all, and I'll get back to you as soon as I can!
+
+[![Linkedin Badge](https://img.shields.io/badge/-jeremiahsabino-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeremiahsabino/)](https://www.linkedin.com/in/jeremiah-sabino/)
+[![Gmail Badge](https://img.shields.io/badge/-jeremiahsabino@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jer.lsabino@gmail.com)](mailto:jer.lsabino@gmail.com)
 
 <!--
 **JerSabino/JerSabino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
